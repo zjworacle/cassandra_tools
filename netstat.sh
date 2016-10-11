@@ -9,6 +9,7 @@ calculate progress.
 
 
 #!/bin/bash
+# Jinwen Zou 08/10/2016 started the initial version
 cd /tmp; /opt/dse/bin/nodetool netstats > raw.txt
 (
 cat raw.txt|awk '
