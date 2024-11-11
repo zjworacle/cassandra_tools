@@ -1,5 +1,5 @@
 nodes add/decommission/replace is every common in cassandra. An FAQ is how  
-bootstrap/unbootstrap progess is going, what's ETA, etc. 
+bootstrap/unbootstrap progess is going, the ETA, etc. 
 
 Cassandra has a built-in nodetool netstats to show where the data came from or sent to in files level, but its output
 is way to long for big cluster. 
